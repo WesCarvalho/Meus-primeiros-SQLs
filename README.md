@@ -1,1 +1,1 @@
-Meus-primeiros-SQLs
+Repositorio referente aos scrips SQL
